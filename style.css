@@ -1,0 +1,156 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: border-box;
+   
+}
+body{
+    background-color: #f3f2ef;
+}
+header{
+   padding-top: 10px;
+   padding-bottom: 10px;
+    padding-left: 50px;
+background-color: white;
+width: 1298px;
+height: 50px;
+display: flex;
+
+}
+
+.aside1{
+    margin-top: 50px;
+    margin-left:50px ;
+padding-bottom: 10px;
+background-color: white;
+width: 300px;
+height: 460px;
+border-radius:20px
+
+}
+.aside2{
+    margin-top: 20px;
+    margin-left:50px ;
+padding-left: 30px;
+padding-top: 30px;
+background-color: white;
+width: 275px;
+height: 350px;
+border-radius:20px
+
+}
+
+.aside2 p{
+    opacity: 0.5;
+}
+.aside3{
+    margin-top: 50px;
+    margin-left:50px;
+    padding-left: 30px;
+padding-top: 30px;
+padding-bottom: 10px;
+background-color: white;
+width: 280px;
+height: 200px;
+border-radius:20px
+
+}
+.aside4{
+    margin-top: 20px;
+    margin-left:50px;
+    padding-left: 30px;
+padding-top: 30px;
+padding-bottom: 10px;
+background-color: white;
+width: 280px;
+height: 150px;
+border-radius:20px
+
+}
+.aside5{
+    margin-top: 20px;
+    margin-left:50px ;
+    padding-left: 10px;
+padding-top: 30px;
+padding-bottom: 10px;
+background-color: white;
+width: 300px;
+height: 420px;
+border-radius:20px
+
+}
+
+.main{
+    margin-top: 50px;
+    margin-left:50px ;
+padding-bottom: 10px;
+background-color: white;
+width: 480px;
+height: 100px;
+padding: 10px;
+border-radius: 10px;
+}
+.main1{
+    margin-top: 50px;
+    margin-left:50px ;
+padding-bottom: 10px;
+background-color: white;
+width: 500px;
+height: 480px;
+}
+
+.main2{
+    margin-top: 50px;
+    margin-left:50px ;
+padding-bottom: 10px;
+background-color: white;
+width: 500px;
+height: 600px;
+padding: 10px;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+.search{
+width:280px;
+height:40px;
+border: none;
+background-color:#E7F2F8;
+margin-top: 10px;
+
+}
+.search2{
+    width:600px;
+    height:40px;
+    padding: 20px;
+  border-radius: 20px;
+  
+    }
+    .video{
+        width: 500px;
+height: 350px;
+}
+button{
+    margin-top:10px ;
+    margin-left: 10px;
+    padding: 10px;
+    background-color: white;
+    color:black;
+    width: 180px;
+    font-size: 20px;
+  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    border: 1px solid rgb(15, 15, 15);
+    border-radius: 20px;
+}
+button:hover{
+   
+    
+cursor: pointer;
+}
+ 
+ 
